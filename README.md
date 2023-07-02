@@ -1,0 +1,1 @@
+## In questo dataset utilizzero la regressione polinomiale, trasformero i dati delle features costruendo un polinomio di quarto grado che utilizzeremo per addestrare il modello 
